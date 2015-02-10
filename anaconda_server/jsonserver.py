@@ -96,7 +96,7 @@ class JSONHandler(asynchat.async_chat):
             self.handle_command(handler_type, method, uid, vid, data)
         else:
             logging.error(
-                'client sent somethinf that I don\'t understand: {0}'.format(
+                'client sent something that I don\'t understand: {0}'.format(
                     data
                 )
             )
