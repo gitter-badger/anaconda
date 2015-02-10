@@ -35,10 +35,6 @@
                                 "args": {"file": "${packages}/User/Anaconda.sublime-settings"},
                                 "caption": "Settings – User"
                             },
-                            {
-                                "command": "open_file_settings",
-                                "caption": "Settings – Syntax Specific – User"
-                            },
                             { "caption": "-" },
                             {
                                 "command": "open_file",
