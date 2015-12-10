@@ -1,4 +1,6 @@
 # Anaconda
+
+[![Join the chat at https://gitter.im/dvcrn/anaconda](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dvcrn/anaconda?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Anaconda turns your Sublime Text 3 into a full featured Python IDE. Read the plugin documentation on [http://damnwidget.github.io/anaconda](http://damnwidget.github.io/anaconda).
 
 [![Book Status](https://www.gitbook.io/button/status/book/damnwidget/anacondast3-developers-documentation)](https://www.gitbook.io/book/damnwidget/anacondast3-developers-documentation/activity)
